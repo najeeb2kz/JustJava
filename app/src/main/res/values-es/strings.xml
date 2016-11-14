@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Just Java</string>
+
+    <string name="toppings">Coberturas</string>
+    <string name="whip_cream">Crema batida</string>
+    <string name="choclate">Chocolate</string>
+    <string name="quantity">Cantidad</string>
+    <string name="quantity_number">0</string>
+    <string name="order">Orden</string>
+    <string name="order_summary">Resumen del pedido</string>
+    <string name="price_number"></string>
+    <string name="increment">+</string>
+    <string name="decrement">-</string>
+    <string name="hint_name">Nombre</string>
+    <string name="thank_you">Gracias!</string>
+
+    <string name="action_settings">Ajustes</string>
+</resources>
